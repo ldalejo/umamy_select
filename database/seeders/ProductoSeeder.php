@@ -156,8 +156,8 @@ class ProductoSeeder extends Seeder
                 'created_at' => Carbon::now(),
                 'updated_at' => Carbon::now()
             ],
-            
             // Bebidas
+            
             [
                 'nombre' => 'Refresco',
                 'precio' => 2.50,
